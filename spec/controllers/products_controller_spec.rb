@@ -30,6 +30,6 @@ RSpec.describe ProductsController, type: :controller do
   #     expect(body["inventory"]).to eq product.inventory
   #     expect(body["created_at"]).to eq nil
   #   end
-  # end
+  end
 
 end
